@@ -1,2 +1,2 @@
 # spotify-premium-gratis
-Pagina est´´atica de download de arquivo.
+Pagina estática de download de arquivo.
