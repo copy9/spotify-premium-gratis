@@ -17,6 +17,7 @@ Criada de forma temática para parecer mais atraente visualmente para o usuário
       
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<p/>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<p/>
+![PS6](https://img.shields.io/badge/photophopcs6-%231572B6.svg?style=for-the-badge&logo=photoshop&logoColor=white)<p/>
 
 <ul>
 <li><h3>Textos, imagens, links de forma clara e de facil edição no HTML.</h3></li>
