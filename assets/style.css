@@ -115,7 +115,7 @@ section{
     font-size: 22px;
     color: wheat;
     border: none;
-    background-color: wheat;
+    background-color: transparent;
     margin-top: 30px;
     font-weight: 300;
 }
